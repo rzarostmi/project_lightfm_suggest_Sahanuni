@@ -1,1 +1,2 @@
-# project_lightfm_suggest_Sahanuni
+# pip install numpy, lightfm
+### IF NOT WORKED RUN THE PROJECT IN GOOGLE COLAB ###
